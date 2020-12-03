@@ -17,8 +17,9 @@ void main()
 	const char* string = "debugging";
 	for (int i = 0; i < strlen(string)  ; i++)
 	{
-		std::cout << string[i]<<std::endl;
+		std::cout << string[i] << std::endl;
 	}
+
 
 	Log("hello how to debug");
 	std::cin.get();
