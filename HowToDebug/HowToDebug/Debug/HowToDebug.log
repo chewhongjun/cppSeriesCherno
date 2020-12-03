@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Dev\cpps\HowToDebug\HowToDebug\Main.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Dev\cpps\HowToDebug\HowToDebug\Main.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+  HowToDebug.vcxproj -> C:\Dev\cpps\HowToDebug\Debug\HowToDebug.exe
