@@ -7,7 +7,7 @@
 
 void IncrementPtr(int* value)
 {
-	(*value)++;
+	(*value)++ ;
 }
 void IncrementRef(int& value)
 {
