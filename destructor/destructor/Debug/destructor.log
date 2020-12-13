@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Dev\cpps\destructor\destructor\Source.cpp(10,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Dev\cpps\destructor\destructor\Source.cpp(11,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Dev\cpps\destructor\destructor\Source.cpp(12,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  destructor.vcxproj -> C:\Dev\cpps\destructor\Debug\destructor.exe
